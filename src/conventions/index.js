@@ -1,0 +1,9 @@
+const RTM_GATEWAY_URL = '';
+const PAWSIES_GRAPH_VAULT_DOMAIN = 'pawsies-graph-vault';
+const PAWSIES_GRAPH_VAULT_LANE = 'shared';
+
+export {
+  RTM_GATEWAY_URL,
+  PAWSIES_GRAPH_VAULT_DOMAIN,
+  PAWSIES_GRAPH_VAULT_LANE
+}
