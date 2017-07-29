@@ -67,6 +67,7 @@
 {
   userId: <String>
 }
+```
 
 ### UPSERT_PET
 #### Payload
@@ -87,6 +88,7 @@
 {
   petId: <String>
 }
+```
 
 ### PET_LIST
 #### Payload
@@ -248,6 +250,7 @@
   token: <String>,
   rtmGatewayUrl: <String>
 }
+```
 
 ### RELEASE_FOOD
 #### Payload
@@ -261,6 +264,7 @@
 {
   success: <Boolean>
 }
+```
 
 ### RELEASE_WATER
 #### Payload
@@ -274,6 +278,7 @@
 {
   success: <Boolean>
 }
+```
 
 ### DETECT_PET_FEED
 #### Payload
@@ -287,6 +292,7 @@
 {
   success: <Boolean>
 }
+```
 
 ### DETECT_PET_DRANK
 #### Payload
@@ -300,3 +306,4 @@
 {
   success: <Boolean>
 }
+```
